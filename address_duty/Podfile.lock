@@ -1,0 +1,43 @@
+PODS:
+  - Alamofire (5.2.2)
+  - DynamicCodable (1.0)
+  - KakaoSDKAuth (2.0.1):
+    - KakaoSDKCommon (= 2.0.1)
+  - KakaoSDKCommon (2.0.1):
+    - Alamofire (~> 5.1)
+    - DynamicCodable (~> 1.0)
+  - KakaoSDKLink (2.0.1):
+    - KakaoSDKCommon (= 2.0.1)
+    - KakaoSDKTemplate (= 2.0.1)
+  - KakaoSDKTemplate (2.0.1):
+    - KakaoSDKCommon (= 2.0.1)
+  - Zip (2.1.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - KakaoSDKAuth
+  - KakaoSDKLink
+  - Zip
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DynamicCodable
+    - KakaoSDKAuth
+    - KakaoSDKCommon
+    - KakaoSDKLink
+    - KakaoSDKTemplate
+    - Zip
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  DynamicCodable: 2cf558d057b3e6540552943254e1c9eeb706dde2
+  KakaoSDKAuth: b0164328e032efe30531050f1cbf383a8b15c177
+  KakaoSDKCommon: 2a0cddcf8e606a874c02fd212efd50ef06d6189d
+  KakaoSDKLink: 85d8366c473ced95943870f7078babe1c9c4dae5
+  KakaoSDKTemplate: 1a8390dfeb57633acf12266662f132ff9d0a384a
+  Zip: 414f59909701fda9a84ab774ebe0f5449b1082cc
+
+PODFILE CHECKSUM: 1bd5f829b96b981190c65144fca7a4a593707e3c
+
+COCOAPODS: 1.9.3
